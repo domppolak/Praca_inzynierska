@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/shader">
+        <file>shaders/color_shader.frag</file>
+        <file>shaders/color_shader.vert</file>
+        <file>shaders/color_shader_platform.frag</file>
+        <file>shaders/color_shader_platform.vert</file>
+        <file>shaders/color_shader_mainScene.vert</file>
+        <file>shaders/color_shader_mainScene.frag</file>
+        <file>shaders/color_shader_mainScene_texture.frag</file>
+        <file>shaders/color_shader_mainScene_texture.vert</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>img/signal_formula.png</file>
+        <file>img/texture.png</file>
+        <file>img/side1.png</file>
+        <file>img/signal_formula1.png</file>
+        <file>img/signal_formula_2.png</file>
+        <file>img/signal_formula_3.png</file>
+        <file>img/signal_formula_4.png</file>
+        <file>img/signal_formula5.png</file>
+        <file>img/singal_formula6.png</file>
+        <file>img/texture2.png</file>
+        <file>img/texture3.png</file>
+        <file>img/texture4.png</file>
+        <file>img/texture5.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+<!DOCTYPE platform_configuration>
+<Platform Size="250 150 250" NumOfSonars="1" LocPos="0 0 0">
+ <Sonar Size="50 35 50" Color="0 1 0" Id="1" Rotation="0" GlPos="0 0 0" LocPos="0 94 105">
+  <Transmitter Size="10 10 10" Rotation="0" GlPos="0 94 130" AcusticVec="0 94 630" LocPos="0 0 25"/>
+  <Transmitted_signal p2="2" t_max="2000" w="0.251327" time="2500" Amp="723" p1="4" tau2="300" tau1="80" alpha="60" M1="3.46e-09" M2="8.3e-06"/>
+  <Receiver Size="5 5 12.5" Id="1" Rotation="0" GlPos="-12 89 127" LocPos="-12 -5 22"/>
+  <Receiver Size="5 5 12.5" Id="2" Rotation="0" GlPos="-1.84 84.75 127" LocPos="-1.84 -9.25 22"/>
+  <Receiver Size="5 5 12.5" Id="3" Rotation="0" GlPos="8.96 84.75 127" LocPos="8.96 -9.25 22"/>
+  <Receiver Size="5 5 12.5" Id="4" Rotation="0" GlPos="12.45 94.25 127" LocPos="12.45 0.25 22"/>
+ </Sonar>
+</Platform>
